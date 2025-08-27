@@ -89,3 +89,10 @@ Data structures (linked lists, trees, etc.)
 
 Interfacing with low-level hardware or APIs
 
+Enjoy your C++ coding
+
+Thanks
+
+Bye
+
+SEOptimzeCd: 5yhdsdfghgghgf#y7qq6
